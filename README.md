@@ -31,12 +31,17 @@ Kali Linux
 
 10) Decoy scan - It makes your IP one of a torrent of others supposedly scanning the victim at the same time
 
+
 ![bfirewall](https://github.com/shantanu-65/BypassFirewall/assets/172571474/f3833f88-fb45-408a-9872-9b1b48cf017d)
+
 
 # Installing
 sudo apt install nmap
+
 git clone https://github.com/shantanu-65/BypassFirewall
+
 cd BypassFirewall
+
 bash bfirewall.sh
 
 
